@@ -181,5 +181,5 @@ GPL-3.0
 
 ## 謝辞
 
-- Anthy Unicode の開発者である藤原さん
+- Anthy Unicode の開発者である fujiwarat さん
 - Sailfish OS コミュニティ
