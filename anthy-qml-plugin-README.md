@@ -22,7 +22,7 @@ Sailfish OS 向けの Anthy Unicode QML プラグイン。QML から直接 Anthy
 
 ```bash
 cd /home/mersdk
-git clone https://github.com/<your-username>/anthy-qml-plugin.git
+git clone https://github.com/inugamine/anthy-qml-plugin.git
 cd anthy-qml-plugin
 mb2 -t SailfishOS-5.0.0.62EA-aarch64 build
 ```
