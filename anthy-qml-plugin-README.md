@@ -173,7 +173,7 @@ GPL-3.0
 ## 関連プロジェクト
 
 - [anthy-unicode](https://github.com/fujiwarat/anthy-unicode) - かな漢字変換エンジン本体
-- [japanese-kana-kbd](https://github.com/<your-username>/japanese-kana-kbd) - Sailfish OS 日本語フリックキーボード
+- [japanese-kana-kbd](https://github.com/inugamine/SailfishOS-Japanese-Keyboard) - Sailfish OS 日本語フリックキーボード
 
 ## 作者
 
